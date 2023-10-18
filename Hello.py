@@ -48,4 +48,4 @@ def run():
 
 
 if __name__ == "__main__":
-    run()
+    run(streamlit run your_script.py [-- script args])
